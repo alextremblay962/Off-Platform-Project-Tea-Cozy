@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+
+h2{
+    color: white;
+}
+h3{
+    color:white;
+}
+h4{color: white;
+}
+
+
+
+.logo{
+    height: 50px ;
+    margin-right: 10px;
+}
+.header{
+    margin: 2px;
+}
+.ourmission{
+    background-image: url("../img/img-mission-background.jpg") ;
+    background-color: aqua;
+    height: 700px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-items: stretch;
+
+}
+
+.ourmissiontext{
+    background-color: black;
+    width: 100%;
+}
+
+.teaofthemonth{
+    display: flex;
+}
+
+.teaimg{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1000px;
+}
+
+.imgcard{
+    margin: 15px;
+}
+
+.imgcardimg{
+    width: 300px;
+    height: 200px;
+   
+
+}
+
+.teaimg{
+    display: flex;
+}
